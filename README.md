@@ -1,2 +1,3 @@
 # cgpa-calculator
-Simple python project
+Simple python mini-project for familiarisng with TTS
+
